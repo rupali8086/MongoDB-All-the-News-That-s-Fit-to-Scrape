@@ -13,7 +13,7 @@ In this repository, you can see source code of NYT Scraper.
 
 `cheerio`: scrapes front-end code from https://www.nytimes.com/section/world
 
-`mongoose`: be in charge of database of `NYT Scraper`
+`mongoose`: be in charge of database of `scrap`
 
 `express`: builds server-side routes and functions
 
